@@ -29,8 +29,8 @@ De plus, le développement de l’application mobile permettra de construire une
 ## Livrables
 |Noms de fichiers et de dossier|Descriptions|
 |--|--|
-|Konan_Koffi_2_images_82022|Dossier contenant les sous-dossiers *Training_1* et *sortie_de_reduction_de_dimension_dimage_via_pca.parquet* renfermant respectivement des images stockées dans un bucket d'aws S3 et de features de ces images stockées dans un autre bucket d'aws S3. Pour obtenir ce dossier il faudra télécharger le dossier au format ".zip" *P8_Déployez_un_modèle_dans_le_cloud_Konan_Koffi.zip* et l'extraire ensuite.|
+|Konan_Koffi_2_images_82022|Dossier contenant les sous-dossiers *Training_1* et *sortie_de_reduction_de_dimension_dimage_via_pca.parquet* renfermant respectivement des images stockées dans un bucket d'aws S3 et de features de ces images stockées dans un autre bucket d'aws S3.|
 |Konan_Koffi_1_notebook_82022.ipynb|Notebook du travail de parallélisation de calculs réalisé avec SPARK via Pyspark dans le cloud|
 |Konan_Koffi_3_presentation_082022.pdf|Support de présentation|
 
-NB : Les livrables ***Konan_Koffi_1_notebook_82022.ipynb*** et ***Konan_Koffi_3_presentation_082022.pdf*** sont directement disponible dans le dossier nommé **P8_Déployez_un_modèle_dans_le_cloud_Konan_Koffi**
+NB : Les livrables sus-mentionnés sont directement disponibles dans le dossier nommé **P8_Déployez_un_modèle_dans_le_cloud_Konan_Koffi**
